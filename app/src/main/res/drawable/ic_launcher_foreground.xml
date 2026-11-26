@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Radiant Star/Rays of Light rising from book -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M54,16 L57,28 L69,28 L59,36 L62,48 L54,40 L46,48 L49,36 L39,28 L51,28 Z" />
+    
+    <!-- Open Book Pages Left & Right -->
+    <path
+        android:fillColor="#FCFAF2"
+        android:pathData="M54,44 C54,44 43,38 24,41 L24,78 C43,75 54,81 54,81 C54,81 65,75 84,78 L84,41 C65,38 54,44 54,44 Z" />
+        
+    <!-- Book Spine / Center line -->
+    <path
+        android:fillColor="#8B6B40"
+        android:pathData="M52.5,44 L55.5,44 L55.5,81 L52.5,81 Z" />
+</vector>

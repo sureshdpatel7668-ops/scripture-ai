@@ -1,0 +1,6 @@
+{
+  "name": "Scripture AI",
+  "description": "An AI-powered scripture study platform and conversational scholar assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
